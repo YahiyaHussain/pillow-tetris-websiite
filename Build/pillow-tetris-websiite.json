@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Pillow Tetris",
+"dataUrl": "pillow-tetris-websiite.data.unityweb",
+"wasmCodeUrl": "pillow-tetris-websiite.wasm.code.unityweb",
+"wasmFrameworkUrl": "pillow-tetris-websiite.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
